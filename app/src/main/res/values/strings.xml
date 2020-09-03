@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageFilteringApp</string>
+    <string name="filters">Filters</string>
+    <string name="filters_line">Filters</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+
+</resources>
